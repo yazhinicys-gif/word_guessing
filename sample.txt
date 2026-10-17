@@ -1,0 +1,3 @@
+Python is easy to learn.
+Python is useful for coding.
+Learning Python is fun.
